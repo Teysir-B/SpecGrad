@@ -14,9 +14,8 @@ The `inference.py` script enables you to perform inference using a trained model
   ```
 
 ## References
-
-    [SpecGrad: Diffusion Probabilistic Model based Neural Vocoder with Adaptive Noise Spectral Shaping](https://arxiv.org/abs/2203.16749)
-    [WaveGrad](https://github.com/lmnt-com/wavegrad)
+- [SpecGrad: Diffusion Probabilistic Model based Neural Vocoder with Adaptive Noise Spectral Shaping](https://arxiv.org/abs/2203.16749)
+- [WaveGrad](https://github.com/lmnt-com/wavegrad)
 
 ## Contribution
 
